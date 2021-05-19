@@ -1,2 +1,2 @@
-# CSharpPath
-Some C# Applications
+# CSharpPath 🦈 <br>
+ 📌Some C# Applications 📌
