@@ -1,5 +1,5 @@
 # CSharpPath 🦈 <br>
-➡️ This is My touch with Advanced C# & .Net 🌟<br>
+➡️ This is my touch with Advanced C# & .Net 🌟<br>
 
  📌Some C# Applications 📌<br>
  
